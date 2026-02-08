@@ -1,0 +1,28 @@
+.about {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.about h1 {
+  color: #667eea;
+  margin-bottom: 1rem;
+}
+
+.about h2 {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  color: #333;
+}
+
+.about ul {
+  list-style-position: inside;
+  line-height: 2;
+}
+
+.about li {
+  background: #f0f0f0;
+  padding: 0.5rem 1rem;
+  margin: 0.5rem 0;
+  border-radius: 4px;
+}
